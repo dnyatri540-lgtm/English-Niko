@@ -1,0 +1,10 @@
+{
+  "name": "English Step — английский с нуля",
+  "short_name": "English Step",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8fa",
+  "theme_color": "#58cc02",
+  "lang": "ru",
+  "description": "Интерактивный тренажёр английского языка для начинающих"
+}
